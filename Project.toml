@@ -1,0 +1,4 @@
+name = "MDProject"
+uuid = "64fc9980-9eb2-4ff2-af33-41f984472014"
+authors = ["CasperCamenisch <camenisch.casper@outlook.com>"]
+version = "0.1.0"

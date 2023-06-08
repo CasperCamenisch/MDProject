@@ -1,0 +1,13 @@
+# Example for MD simulation from an initial configuration given by an XYZ file
+N 108
+L 5800
+DIM 3
+INPUT_FILE argon.xyz
+THERMO Andersen
+T 100
+CUTOFF 1100
+LIST_RADIUS 10
+STEPSIZE 1
+STEPS 1000
+INTERVAL 100
+OUTPUT_FILE example2.out
