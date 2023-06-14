@@ -12,6 +12,7 @@ There are two examples of settings files given in the /src/ directory.
 - "setting\_example2.txt" is an example fo a settings file that takes the initial configuration from an XYZ file that has to be provided.
 
 ## Parameters
+
 - N | the number of particles.
 - L | the sidelength of the simulation box (in pm).
 - DIM | the number of spacial dimensions. Usually 3 but 2 can be used for testing or to get nice visualizations.
