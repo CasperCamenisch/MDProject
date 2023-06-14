@@ -13,6 +13,8 @@ There are two examples of settings files given in the /src/ directory.
 
 ## Parameters
 
+| Parameter | Description |
+| --- | --- |
 | N | the number of particles. |
 | L | the sidelength of the simulation box (in pm). |
 | DIM | the number of spacial dimensions. Usually 3 but 2 can be used for testing or to get nice visualizations. |
